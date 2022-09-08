@@ -1,10 +1,15 @@
 # Calculadora_de_Numeros_Racionais
 ## Programa em C++
 O programa realiza as seuintes funções:
+
 • Adição, subtração, multiplicação e divisão entre dois números racionais.
+
 • Imprimir o número na forma racional, ex: “a/b”.
+
 • Imprimir o número na forma de ponto flutuante, ex: “3.14”.
+
 • Simplifica um número racional.
+
 
 Exemplo de saída:
 
